@@ -1,0 +1,14 @@
+{
+  "name": "flie",
+  "version": "0.0.1",
+  "description": "Flie - quadcopter control language",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:balintb/flie.git"
+  },
+  "author": "Balint Bartfai",
+  "dependencies": {
+    "bnf": "~0.1.0"
+  }
+}
